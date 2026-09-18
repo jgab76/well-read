@@ -1,0 +1,5 @@
+.DS_Store
+*.csv
+.env
+.env.*
+node_modules/
