@@ -16,11 +16,11 @@ Export your Goodreads library at https://www.goodreads.com/review/import and run
 node scripts/import-goodreads.mjs /path/to/goodreads_library_export.csv
 ```
 
-Review and commit `docs/books.json`. GitHub Pages then republishes automatically. The importer replaces the published collection with the export’s read books, excluding to-read and currently-reading titles. Custom shelves become categories; books without one go in Uncategorized. Edit categories in `docs/books.json` as needed. Existing categories are retained on reimport if the export has no custom shelf for that book.
+Review and commit `docs/books.json`. GitHub Pages then republishes automatically. The importer replaces the published collection with the export’s read books, excluding to-read and currently-reading titles. The initial 311-book collection is organized into 14 broad editorial categories. Per-book choices in `data/category-overrides.json` take precedence during imports; update that file to change a category permanently. For new books without an override, custom Goodreads shelves become categories, or Uncategorized is used when none exist. Existing categories are retained on reimport when the export has no custom shelf.
 
 The CSV remains local and is ignored by Git. The public list contains only titles, authors, sorting names, categories, ISBNs, Goodreads IDs, and optional Open Library cover URLs. Reviews, ratings, reading dates, and other export fields are omitted. Do not upload the raw Goodreads CSV to this public repository.
 
-`docs/books.json` starts empty until Jeremy’s actual collection is imported. No sample books are represented as Jeremy’s reading history.
+The initial collection contains 311 read entries from Jeremy’s Goodreads export. Different editions remain separate when Goodreads lists them separately. Authors are alphabetized using Goodreads’ last-name field, with suffixes such as Jr. and III corrected. No sample books are mixed into the collection.
 
 ## Covers
 
