@@ -1,5 +1,5 @@
 import {sortBooks} from './library.mjs';
-import {coverFilename,mountCoverUpload} from './cover-upload.mjs';
+import {coverFilename,mountCoverUpload} from './cover-upload.mjs?v=20260918b';
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let books=[],category='All books',query='',cleanupUpload=()=>{};

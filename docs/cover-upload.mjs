@@ -27,7 +27,7 @@ export function mountCoverUpload(container,book,onRefresh) {
  let previewURL=null,preparedBlob=null,selection=0,disposed=false;
  let filename;
  try{filename=coverFilename(book.id);}catch{return ()=>{};}
- container.innerHTML=`<details class="cover-editor"><summary>Upload or replace cover <span>Owner tools</span></summary><p>Choose a cover, then save it through your GitHub account. Only the repository owner or a collaborator can update the shared shelf.</p><label class="cover-file">Choose cover image<input type="file" accept="image/jpeg,image/png,image/webp" aria-label="Choose cover image"></label><p class="fine">JPEG, PNG, or WebP · up to 10 MB</p><p class="upload-status" role="status" aria-live="polite"></p><div class="cover-ready" hidden><img class="upload-preview" alt="New cover preview"><p><b>1. Download the prepared cover.</b><br>Keep its filename: <code></code></p><a class="primary download-cover">Download cover</a><p><b>2. Save it on GitHub.</b><br>Open the upload page, choose the downloaded file, and click <b>Commit changes</b>. GitHub may ask you to sign in.</p><a class="github-upload" target="_blank" rel="noopener noreferrer">Open GitHub upload ↗</a><p class="fine">Uploading makes this image public. Publication usually takes a minute or two. If your browser adds “(1)” to the filename, rename it to the exact name above before uploading.</p><button class="refresh-cover" type="button">I’ve committed it — check cover</button><p class="fine">Selecting or downloading an image here does not publish it.</p></div></details>`;
+ container.innerHTML=`<details class="cover-editor"><summary>Upload or replace cover <span>Owner tools</span></summary><p>Choose a cover, then save it through your GitHub account. Only the repository owner or a collaborator can update the shared shelf.</p><label class="cover-file">Choose cover image<input type="file" accept="image/jpeg,image/png,image/webp" aria-label="Choose cover image"></label><p class="fine">JPEG, PNG, or WebP · up to 10 MB</p><p class="upload-status" role="status" aria-live="polite"></p><div class="cover-ready" hidden><img class="upload-preview" alt="New cover preview"><p><b>1. Download the prepared cover.</b><br>Keep its filename: <code></code></p><a class="primary download-cover">Download cover</a><p><b>2. Save it on GitHub.</b><br>Open the upload page, choose the downloaded file, and click <b>Commit changes</b>. GitHub may ask you to sign in.</p><a class="github-upload" target="_blank" rel="noopener noreferrer">Open GitHub upload ↗</a><p class="fine">Uploading makes this image public. Publication usually takes a minute or two. If your browser adds “(1)” to the filename, rename it to the exact name above before uploading.</p><button class="refresh-cover" type="button">I’ve committed it — check cover</button><p class="check-status" role="status" aria-live="polite"></p><p class="fine">Selecting or downloading an image here does not publish it.</p></div></details>`;
  const input=container.querySelector('input'),status=container.querySelector('.upload-status'),ready=container.querySelector('.cover-ready');
  const download=container.querySelector('.download-cover'),github=container.querySelector('.github-upload');
  github.href=UPLOAD_URL;container.querySelector('code').textContent=filename;
@@ -41,21 +41,22 @@ export function mountCoverUpload(container,book,onRefresh) {
    download.href=previewURL;download.download=filename;ready.hidden=false;status.textContent='Cover ready. Follow the two steps below to publish it.';
   }catch(error){if(!disposed&&seq===selection)status.textContent=error.message;}
  };
- const refresh=container.querySelector('.refresh-cover');
+ const refresh=container.querySelector('.refresh-cover'),checkStatus=container.querySelector('.check-status');
  refresh.onclick=async()=>{
-  refresh.disabled=true;status.textContent='Checking for the published cover…';
+  refresh.disabled=true;refresh.textContent='Checking…';checkStatus.textContent='Checking for the published cover…';
+  const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),15000);
   try{
    const url=`./covers/${filename}?v=${Date.now()}`;
-   const response=await fetch(url,{cache:'no-store'});
-   if(!response.ok||!response.headers.get('content-type')?.startsWith('image/'))throw new Error('The cover is not published yet. Check that you committed the file with the exact filename, then try again in a minute.');
+   const response=await fetch(url,{cache:'no-store',signal:controller.signal});
+   if(!response.ok||!response.headers.get('content-type')?.startsWith('image/'))throw new Error(`No published cover found at docs/covers/${filename}. Upload the downloaded cover with this exact filename, click Commit changes, then wait a minute and check again.`);
    const blob=await response.blob();
-   if(preparedBlob){const a=new Uint8Array(await preparedBlob.arrayBuffer()),b=new Uint8Array(await blob.arrayBuffer());if(a.length!==b.length||a.some((v,i)=>v!==b[i]))throw new Error('The previous cover is still being served. Wait for GitHub Pages to finish publishing, then check again.');}
+
    const test=URL.createObjectURL(blob);
    try{const img=new Image();img.src=test;await img.decode();}finally{URL.revokeObjectURL(test);}
    if(disposed)return;
-   onRefresh(url);status.textContent='Your uploaded cover is live and visible to everyone.';
-  }catch(error){if(!disposed)status.textContent=error.message;}
-  finally{if(!disposed)refresh.disabled=false;}
+   onRefresh(url);checkStatus.textContent='Your uploaded cover is live and visible to everyone.';
+  }catch(error){if(!disposed)checkStatus.textContent=error.name==='AbortError'?'The check timed out. Please try again.':error.message;}
+  finally{clearTimeout(timer);if(!disposed){refresh.disabled=false;refresh.textContent='I’ve committed it — check cover';}}
  };
  return ()=>{disposed=true;selection++;if(previewURL)URL.revokeObjectURL(previewURL);};
 }
