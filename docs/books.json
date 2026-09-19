@@ -1,1 +1,3414 @@
-{"updatedAt":null,"books":[]}
+{
+  "updatedAt": "2026-09-19T00:02:35.250Z",
+  "books": [
+    {
+      "id": "8167429",
+      "title": "The Oresteia: Agamemnon / The Libation Bearers / The Eumenides",
+      "author": "Aeschylus",
+      "sort": "Aeschylus, Aeschylus",
+      "isbn": "9781101042632",
+      "categories": [
+        "Poetry & drama"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6417436-M.jpg?default=false"
+    },
+    {
+      "id": "19484130",
+      "title": "Thoughts On Family Worship",
+      "author": "James Waddel Alexander",
+      "sort": "Alexander, James Waddel",
+      "isbn": "",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/12624859-M.jpg?default=false"
+    },
+    {
+      "id": "1633",
+      "title": "Getting Things Done: The Art of Stress-Free Productivity",
+      "author": "David Allen",
+      "sort": "Allen, David",
+      "isbn": "9780142000281",
+      "categories": [
+        "Psychology & personal growth"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/109288-M.jpg?default=false"
+    },
+    {
+      "id": "45546",
+      "title": "Undaunted Courage: The Pioneering First Mission to Explore America's Wild Frontier",
+      "author": "Stephen E. Ambrose",
+      "sort": "Ambrose, Stephen E.",
+      "isbn": "9780743477888",
+      "categories": [
+        "History"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/425281-M.jpg?default=false"
+    },
+    {
+      "id": "219428348",
+      "title": "The Holy Bible, English Standard Version (with Cross-References): Old and New Testaments",
+      "author": "Anonymous",
+      "sort": "Anonymous, Anonymous",
+      "isbn": "",
+      "categories": [
+        "Christianity & theology"
+      ]
+    },
+    {
+      "id": "36437282",
+      "title": "La Salle's Ghost",
+      "author": "Miles Arceneaux",
+      "sort": "Arceneaux, Miles",
+      "isbn": "9780996879798",
+      "categories": [
+        "Mystery & thrillers"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/12453233-M.jpg?default=false"
+    },
+    {
+      "id": "8418250",
+      "title": "Lysistrata and Other Plays",
+      "author": "Aristophanes",
+      "sort": "Aristophanes, Aristophanes",
+      "isbn": "",
+      "categories": [
+        "Poetry & drama"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/104310-M.jpg?default=false"
+    },
+    {
+      "id": "19442635",
+      "title": "The Confessions of Saint Augustine",
+      "author": "Augustine of Hippo",
+      "sort": "Augustine",
+      "isbn": "",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/9022521-M.jpg?default=false"
+    },
+    {
+      "id": "1885",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "sort": "Austen, Jane",
+      "isbn": "9781441341709",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/14348537-M.jpg?default=false"
+    },
+    {
+      "id": "11607",
+      "title": "The Running Man",
+      "author": "Richard Bachman",
+      "sort": "Bachman, Richard",
+      "isbn": "9780451197962",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/14651762-M.jpg?default=false"
+    },
+    {
+      "id": "52726273",
+      "title": "12 Principles for Raising a Child with ADHD",
+      "author": "Russell A. Barkley",
+      "sort": "Barkley, Russell A.",
+      "isbn": "9781462542550",
+      "categories": [
+        "Parenting & relationships"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/10526544-M.jpg?default=false"
+    },
+    {
+      "id": "29036",
+      "title": "The Great Influenza: The Story of the Deadliest Pandemic in History",
+      "author": "John M. Barry",
+      "sort": "Barry, John M.",
+      "isbn": "9780143036494",
+      "categories": [
+        "Science & medicine"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/402769-M.jpg?default=false"
+    },
+    {
+      "id": "40490",
+      "title": "The Valley of Vision: A Collection of Puritan Prayers and Devotions",
+      "author": "Arthur Bennett",
+      "sort": "Bennett, Arthur",
+      "isbn": "9780851512280",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/648308-M.jpg?default=false"
+    },
+    {
+      "id": "38819211",
+      "title": "American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road",
+      "author": "Nick Bilton",
+      "sort": "Bilton, Nick",
+      "isbn": "9780143129028",
+      "categories": [
+        "True crime"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8353939-M.jpg?default=false"
+    },
+    {
+      "id": "18206925",
+      "title": "The Four Steps to the Epiphany: Successful Strategies for Products That Win",
+      "author": "Steve Blank",
+      "sort": "Blank, Steve",
+      "isbn": "9780989200509",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/742169-M.jpg?default=false"
+    },
+    {
+      "id": "61065813",
+      "title": "Surrender: 40 Songs, One Story",
+      "author": "Bono",
+      "sort": "Bono, Bono",
+      "isbn": "9780525521044",
+      "categories": [
+        "Memoir & biography"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/12983763-M.jpg?default=false"
+    },
+    {
+      "id": "39999",
+      "title": "The Boy in the Striped Pajamas",
+      "author": "John Boyne",
+      "sort": "Boyne, John",
+      "isbn": "9780385751070",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/12720687-M.jpg?default=false"
+    },
+    {
+      "id": "13079982",
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "sort": "Bradbury, Ray",
+      "isbn": "",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/12993656-M.jpg?default=false"
+    },
+    {
+      "id": "930225",
+      "title": "Respectable Sins",
+      "author": "Jerry Bridges",
+      "sort": "Bridges, Jerry",
+      "isbn": "9781600061400",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/2007768-M.jpg?default=false"
+    },
+    {
+      "id": "349283",
+      "title": "The Practice of Godliness",
+      "author": "Jerry Bridges",
+      "sort": "Bridges, Jerry",
+      "isbn": "9780891099413",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/688655-M.jpg?default=false"
+    },
+    {
+      "id": "260791",
+      "title": "The Pursuit of Holiness",
+      "author": "Jerry Bridges",
+      "sort": "Bridges, Jerry",
+      "isbn": "9781576839324",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/4846451-M.jpg?default=false"
+    },
+    {
+      "id": "22725381",
+      "title": "Business Adventures: Twelve Classic Tales from the World of Wall Street",
+      "author": "John Brooks",
+      "sort": "Brooks, John",
+      "isbn": "9781497644892",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/11511175-M.jpg?default=false"
+    },
+    {
+      "id": "22609522",
+      "title": "Red Notice: A True Story of High Finance, Murder, and One Man's Fight for Justice",
+      "author": "Bill Browder",
+      "sort": "Browder, Bill",
+      "isbn": "9781476755717",
+      "categories": [
+        "Memoir & biography"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/11341648-M.jpg?default=false"
+    },
+    {
+      "id": "22047957",
+      "title": "Fail-Safe Investing: Lifelong Financial Security in 30 Minutes",
+      "author": "Harry Browne",
+      "sort": "Browne, Harry",
+      "isbn": "",
+      "categories": [
+        "Economics & society"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/177325-M.jpg?default=false"
+    },
+    {
+      "id": "105992",
+      "title": "Helter Skelter: The True Story of the Manson Murders",
+      "author": "Vincent Bugliosi",
+      "sort": "Bugliosi, Vincent",
+      "isbn": "9780393322231",
+      "categories": [
+        "True crime"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/250197-M.jpg?default=false"
+    },
+    {
+      "id": "3554517",
+      "title": "The Big Rich: The Rise and Fall of the Greatest Texas Oil Fortunes",
+      "author": "Bryan Burrough",
+      "sort": "Burrough, Bryan",
+      "isbn": "9781594201998",
+      "categories": [
+        "History"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7083193-M.jpg?default=false"
+    },
+    {
+      "id": "168642",
+      "title": "In Cold Blood",
+      "author": "Truman Capote",
+      "sort": "Capote, Truman",
+      "isbn": "9780679745587",
+      "categories": [
+        "True crime"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/228066-M.jpg?default=false"
+    },
+    {
+      "id": "10339170",
+      "title": "The 10X Rule: The Only Difference Between Success and Failure",
+      "author": "Grant Cardone",
+      "sort": "Cardone, Grant",
+      "isbn": "9780470627600",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/9978588-M.jpg?default=false"
+    },
+    {
+      "id": "8696865",
+      "title": "How To Win Friends and Influence People",
+      "author": "Dale Carnegie",
+      "sort": "Carnegie, Dale",
+      "isbn": "",
+      "categories": [
+        "Psychology & personal growth"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/13314878-M.jpg?default=false"
+    },
+    {
+      "id": "652950",
+      "title": "How Long, O Lord?: Reflections on Suffering and Evil",
+      "author": "D.A. Carson",
+      "sort": "Carson, D.A.",
+      "isbn": "9780801031250",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/562968-M.jpg?default=false"
+    },
+    {
+      "id": "6114905",
+      "title": "Water Of The Word: Intercession For Her",
+      "author": "Andrew Case",
+      "sort": "Case, Andrew",
+      "isbn": "9781438245317",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8624188-M.jpg?default=false"
+    },
+    {
+      "id": "175510",
+      "title": "My Utmost for His Highest",
+      "author": "Oswald Chambers",
+      "sort": "Chambers, Oswald",
+      "isbn": "9781586608293",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/853286-M.jpg?default=false"
+    },
+    {
+      "id": "3206011",
+      "title": "Crazy Love: Overwhelmed by a Relentless God",
+      "author": "Francis Chan",
+      "sort": "Chan, Francis",
+      "isbn": "9781434768513",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6391337-M.jpg?default=false"
+    },
+    {
+      "id": "16121",
+      "title": "Titan: The Life of John D. Rockefeller, Sr.",
+      "author": "Ron Chernow",
+      "sort": "Chernow, Ron",
+      "isbn": "9781400077304",
+      "categories": [
+        "Memoir & biography"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/12373738-M.jpg?default=false"
+    },
+    {
+      "id": "78129",
+      "title": "Killing Floor (Jack Reacher, #1)",
+      "author": "Lee Child",
+      "sort": "Child, Lee",
+      "isbn": "9780515141429",
+      "categories": [
+        "Mystery & thrillers"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/11089125-M.jpg?default=false"
+    },
+    {
+      "id": "2615",
+      "title": "The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business",
+      "author": "Clayton M. Christensen",
+      "sort": "Christensen, Clayton M.",
+      "isbn": "9780060521998",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/9274687-M.jpg?default=false"
+    },
+    {
+      "id": "2516340",
+      "title": "Grace Grows Best in Winter",
+      "author": "Margaret Clarkson",
+      "sort": "Clarkson, Margaret",
+      "isbn": "9780802800473",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7282120-M.jpg?default=false"
+    },
+    {
+      "id": "9969571",
+      "title": "Ready Player One (Ready Player One, #1)",
+      "author": "Ernest Cline",
+      "sort": "Cline, Ernest",
+      "isbn": "9780307887436",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8737626-M.jpg?default=false"
+    },
+    {
+      "id": "15062217",
+      "title": "14 (Threshold, #1)",
+      "author": "Peter Clines",
+      "sort": "Clines, Peter",
+      "isbn": "",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8537076-M.jpg?default=false"
+    },
+    {
+      "id": "493371",
+      "title": "The Bottom Billion: Why the Poorest Countries Are Failing and What Can Be Done About It",
+      "author": "Paul Collier",
+      "sort": "Collier, Paul",
+      "isbn": "9780195311457",
+      "categories": [
+        "Economics & society"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/1128787-M.jpg?default=false"
+    },
+    {
+      "id": "35506",
+      "title": "The Language of God: A Scientist Presents Evidence for Belief",
+      "author": "Francis S. Collins",
+      "sort": "Collins, Francis S.",
+      "isbn": "9780743286398",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/475226-M.jpg?default=false"
+    },
+    {
+      "id": "11923102",
+      "title": "Good to Great: Why Some Companies Make the Leap...and Others Don't",
+      "author": "Jim Collins",
+      "sort": "Collins, Jim",
+      "isbn": "",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7431270-M.jpg?default=false"
+    },
+    {
+      "id": "12675109",
+      "title": "Great by Choice: Uncertainty, Chaos, and Luck—Why Some Thrive Despite Them All",
+      "author": "Jim Collins",
+      "sort": "Collins, Jim",
+      "isbn": "9780062121004",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7137774-M.jpg?default=false"
+    },
+    {
+      "id": "42448325",
+      "title": "Turning the Flywheel: A Monograph to Accompany Good to Great",
+      "author": "Jim Collins",
+      "sort": "Collins, Jim",
+      "isbn": "9780062933805",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8951627-M.jpg?default=false"
+    },
+    {
+      "id": "43982455",
+      "title": "The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World",
+      "author": "John Mark Comer",
+      "sort": "Comer, John Mark",
+      "isbn": "9780525653097",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/10211106-M.jpg?default=false"
+    },
+    {
+      "id": "205979",
+      "title": "Be Our Guest: Perfecting the Art of Customer Service",
+      "author": "Walt Disney Company",
+      "sort": "Company, Walt Disney",
+      "isbn": "9780786853946",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/545242-M.jpg?default=false"
+    },
+    {
+      "id": "32508",
+      "title": "The Black Echo (Harry Bosch, #1; Harry Bosch Universe, #1)",
+      "author": "Michael Connelly",
+      "sort": "Connelly, Michael",
+      "isbn": "9780446612739",
+      "categories": [
+        "Mystery & thrillers"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/184039-M.jpg?default=false"
+    },
+    {
+      "id": "27170146",
+      "title": "The Lincoln Lawyer A Lincoln Lawyer Novel, Book 1)",
+      "author": "Michael Connelly",
+      "sort": "Connelly, Michael",
+      "isbn": "9781455536481",
+      "categories": [
+        "Mystery & thrillers"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/499937-M.jpg?default=false"
+    },
+    {
+      "id": "4900",
+      "title": "Heart of Darkness",
+      "author": "Joseph Conrad",
+      "sort": "Conrad, Joseph",
+      "isbn": "9781892295491",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/12307847-M.jpg?default=false"
+    },
+    {
+      "id": "383739",
+      "title": "Invitation to the Classics: A Guide to Books You've Always Wanted to Read",
+      "author": "Louise Cowan",
+      "sort": "Cowan, Louise",
+      "isbn": "9780801068102",
+      "categories": [
+        "Philosophy & literary studies"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/563761-M.jpg?default=false"
+    },
+    {
+      "id": "28268515",
+      "title": "The Road Back to You: An Enneagram Journey to Self-Discovery",
+      "author": "Ian Morgan Cron",
+      "sort": "Cron, Ian Morgan",
+      "isbn": "9780830846191",
+      "categories": [
+        "Psychology & personal growth"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/14421722-M.jpg?default=false"
+    },
+    {
+      "id": "3063194",
+      "title": "Culture Making: Recovering Our Creative Calling",
+      "author": "Andy Crouch",
+      "sort": "Crouch, Andy",
+      "isbn": "9780830833948",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7360694-M.jpg?default=false"
+    },
+    {
+      "id": "26598214",
+      "title": "Strong and Weak: Embracing a Life of Love, Risk and True Flourishing",
+      "author": "Andy Crouch",
+      "sort": "Crouch, Andy",
+      "isbn": "9780830844432",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/13167961-M.jpg?default=false"
+    },
+    {
+      "id": "58844848",
+      "title": "The Life We're Looking For: Reclaiming Relationship in a Technological World",
+      "author": "Andy Crouch",
+      "sort": "Crouch, Andy",
+      "isbn": "9780593237342",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/13136594-M.jpg?default=false"
+    },
+    {
+      "id": "30259180",
+      "title": "The Tech-Wise Family: Everyday Steps for Putting Technology in Its Proper Place",
+      "author": "Andy Crouch",
+      "sort": "Crouch, Andy",
+      "isbn": "9780801018664",
+      "categories": [
+        "Parenting & relationships"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/12869964-M.jpg?default=false"
+    },
+    {
+      "id": "27833670",
+      "title": "Dark Matter",
+      "author": "Blake Crouch",
+      "sort": "Crouch, Blake",
+      "isbn": "9781101904220",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7436634-M.jpg?default=false"
+    },
+    {
+      "id": "34536488",
+      "title": "Principles: Life and Work",
+      "author": "Ray Dalio",
+      "sort": "Dalio, Ray",
+      "isbn": "9781508243243",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8315355-M.jpg?default=false"
+    },
+    {
+      "id": "54981009",
+      "title": "The Last Thing He Told Me (Hannah Hall, #1)",
+      "author": "Laura Dave",
+      "sort": "Dave, Laura",
+      "isbn": "9781501171345",
+      "categories": [
+        "Mystery & thrillers"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/10571017-M.jpg?default=false"
+    },
+    {
+      "id": "117047",
+      "title": "The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe Without Design",
+      "author": "Richard Dawkins",
+      "sort": "Dawkins, Richard",
+      "isbn": "9780141026169",
+      "categories": [
+        "Science & medicine"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/95763-M.jpg?default=false"
+    },
+    {
+      "id": "61535",
+      "title": "The Selfish Gene",
+      "author": "Richard Dawkins",
+      "sort": "Dawkins, Richard",
+      "isbn": "9780199291151",
+      "categories": [
+        "Science & medicine"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/133936-M.jpg?default=false"
+    },
+    {
+      "id": "17152690",
+      "title": "Crazy Busy: A (Mercifully) Short Book about a (Really) Big Problem",
+      "author": "Kevin DeYoung",
+      "sort": "DeYoung, Kevin",
+      "isbn": "9781433533389",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7264110-M.jpg?default=false"
+    },
+    {
+      "id": "1842",
+      "title": "Guns, Germs, and Steel: The Fates of Human Societies",
+      "author": "Jared Diamond",
+      "sort": "Diamond, Jared",
+      "isbn": "9780739467350",
+      "categories": [
+        "History"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7884018-M.jpg?default=false"
+    },
+    {
+      "id": "1953",
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "sort": "Dickens, Charles",
+      "isbn": "9780141439600",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/13301713-M.jpg?default=false"
+    },
+    {
+      "id": "56738",
+      "title": "The New Strong-Willed Child",
+      "author": "James C. Dobson",
+      "sort": "Dobson, James C.",
+      "isbn": "9781414313634",
+      "categories": [
+        "Parenting & relationships"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/1590611-M.jpg?default=false"
+    },
+    {
+      "id": "34006942",
+      "title": "All the Light We Cannot See",
+      "author": "Anthony Doerr",
+      "sort": "Doerr, Anthony",
+      "isbn": "9781501173219",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/14559680-M.jpg?default=false"
+    },
+    {
+      "id": "37702964",
+      "title": "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs",
+      "author": "John Doerr",
+      "sort": "Doerr, John",
+      "isbn": "9780525536222",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/9254540-M.jpg?default=false"
+    },
+    {
+      "id": "761162",
+      "title": "A History of Knowledge: Past, Present, and Future",
+      "author": "Charles van Doren",
+      "sort": "Doren, Charles van",
+      "isbn": "9780345373168",
+      "categories": [
+        "History"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/207830-M.jpg?default=false"
+    },
+    {
+      "id": "7144",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "sort": "Dostoevsky, Fyodor",
+      "isbn": "",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/15183762-M.jpg?default=false"
+    },
+    {
+      "id": "4934",
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "sort": "Dostoevsky, Fyodor",
+      "isbn": "9780374528379",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8272336-M.jpg?default=false"
+    },
+    {
+      "id": "8132279",
+      "title": "Mind Hunter: Inside the FBI's Elite Serial Crime Unit (Mindhunter #1)",
+      "author": "John E. Douglas",
+      "sort": "Douglas, John E.",
+      "isbn": "",
+      "categories": [
+        "True crime"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/490333-M.jpg?default=false"
+    },
+    {
+      "id": "48019",
+      "title": "The Effective Executive: The Definitive Guide to Getting the Right Things Done (Harperbusiness Essentials)",
+      "author": "Peter F. Drucker",
+      "sort": "Drucker, Peter F.",
+      "isbn": "9780060833459",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/4941284-M.jpg?default=false"
+    },
+    {
+      "id": "6580849",
+      "title": "Does Grace Grow Best in Winter?",
+      "author": "J. Ligon Duncan III",
+      "sort": "Duncan, J. Ligon",
+      "isbn": "9781596381551",
+      "categories": [
+        "Christianity & theology"
+      ]
+    },
+    {
+      "id": "148111",
+      "title": "Reclaiming the Center: Confronting Evangelical Accommodation in Postmodern Times",
+      "author": "Millard J. Erickson",
+      "sort": "Erickson, Millard J.",
+      "isbn": "9781581345681",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/842161-M.jpg?default=false"
+    },
+    {
+      "id": "173754979",
+      "title": "James",
+      "author": "Percival Everett",
+      "sort": "Everett, Percival",
+      "isbn": "9780385550369",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/15094964-M.jpg?default=false"
+    },
+    {
+      "id": "6898268",
+      "title": "Gospel-Powered Parenting: How the Gospel Shapes and Transforms Parenting",
+      "author": "William P. Farley",
+      "sort": "Farley, William P.",
+      "isbn": "9781596381353",
+      "categories": [
+        "Parenting & relationships"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7266218-M.jpg?default=false"
+    },
+    {
+      "id": "9278897",
+      "title": "The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich",
+      "author": "Timothy Ferriss",
+      "sort": "Ferriss, Timothy",
+      "isbn": "9780091929114",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/539652-M.jpg?default=false"
+    },
+    {
+      "id": "9418327",
+      "title": "Bossypants",
+      "author": "Tina Fey",
+      "sort": "Fey, Tina",
+      "isbn": "",
+      "categories": [
+        "Memoir & biography"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6717606-M.jpg?default=false"
+    },
+    {
+      "id": "8464846",
+      "title": "When Helping Hurts: How to Alleviate Poverty Without Hurting the Poor . . . and Yourself",
+      "author": "Brian Fikkert",
+      "sort": "Fikkert, Brian",
+      "isbn": "9781575673523",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8474235-M.jpg?default=false"
+    },
+    {
+      "id": "4671",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "sort": "Fitzgerald, F. Scott",
+      "isbn": "9780743273565",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/10590366-M.jpg?default=false"
+    },
+    {
+      "id": "19288043",
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "sort": "Flynn, Gillian",
+      "isbn": "9780307588371",
+      "categories": [
+        "Mystery & thrillers"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8368314-M.jpg?default=false"
+    },
+    {
+      "id": "6346975",
+      "title": "Moonwalking with Einstein: The Art and Science of Remembering Everything",
+      "author": "Joshua Foer",
+      "sort": "Foer, Joshua",
+      "isbn": "9781594202292",
+      "categories": [
+        "Psychology & personal growth"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/14426425-M.jpg?default=false"
+    },
+    {
+      "id": "58214328",
+      "title": "What My Bones Know",
+      "author": "Stephanie Foo",
+      "sort": "Foo, Stephanie",
+      "isbn": "9780593238103",
+      "categories": [
+        "Memoir & biography"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/13012344-M.jpg?default=false"
+    },
+    {
+      "id": "9005818",
+      "title": "Beyond Consequences, Logic and Control: Volume 2",
+      "author": "Heather T. Forbes",
+      "sort": "Forbes, Heather T.",
+      "isbn": "",
+      "categories": [
+        "Parenting & relationships"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/743292-M.jpg?default=false"
+    },
+    {
+      "id": "61013",
+      "title": "The House of Gucci: A Sensational Story of Murder, Madness, Glamour, and Greed",
+      "author": "Sara Gay Forden",
+      "sort": "Forden, Sara Gay",
+      "isbn": "",
+      "categories": [
+        "True crime"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/41517-M.jpg?default=false"
+    },
+    {
+      "id": "5312677",
+      "title": "Celebration of Discipline: The Path to Spiritual Growth",
+      "author": "Richard J. Foster",
+      "sort": "Foster, Richard J.",
+      "isbn": "",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/1996265-M.jpg?default=false"
+    },
+    {
+      "id": "48855",
+      "title": "The Diary of a Young Girl",
+      "author": "Anne Frank",
+      "sort": "Frank, Anne",
+      "isbn": "",
+      "categories": [
+        "Memoir & biography"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/13521319-M.jpg?default=false"
+    },
+    {
+      "id": "11805131",
+      "title": "Uncommon Service: How to Win by Putting Customers at the Core of Your Business",
+      "author": "Frances Frei",
+      "sort": "Frei, Frances",
+      "isbn": "9781422133316",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/9507798-M.jpg?default=false"
+    },
+    {
+      "id": "56456",
+      "title": "Nuts!: Southwest Airlines' Crazy Recipe for Business and Personal Success",
+      "author": "Kevin Freiberg",
+      "sort": "Freiberg, Kevin",
+      "isbn": "9780767901840",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/931953-M.jpg?default=false"
+    },
+    {
+      "id": "202110429",
+      "title": "On Faith and Fear: A Journey from discouragement to joy",
+      "author": "Robert L. Fuller",
+      "sort": "Fuller, Robert L.",
+      "isbn": "",
+      "categories": [
+        "Christianity & theology"
+      ]
+    },
+    {
+      "id": "46722",
+      "title": "The Coming Plague: Newly Emerging Diseases in a World Out of Balance",
+      "author": "Laurie Garrett",
+      "sort": "Garrett, Laurie",
+      "isbn": "9780140250916",
+      "categories": [
+        "Science & medicine"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6479591-M.jpg?default=false"
+    },
+    {
+      "id": "81948",
+      "title": "The E-myth Revisited",
+      "author": "Michael E. Gerber",
+      "sort": "Gerber, Michael E.",
+      "isbn": "9780887307287",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/684209-M.jpg?default=false"
+    },
+    {
+      "id": "670259",
+      "title": "Extraordinary Relationships: A New Way of Thinking About Human Interactions",
+      "author": "Roberta M. Gilbert",
+      "sort": "Gilbert, Roberta M.",
+      "isbn": "9780471346906",
+      "categories": [
+        "Parenting & relationships"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8294876-M.jpg?default=false"
+    },
+    {
+      "id": "40102",
+      "title": "Blink: The Power of Thinking Without Thinking",
+      "author": "Malcolm Gladwell",
+      "sort": "Gladwell, Malcolm",
+      "isbn": "9780316010665",
+      "categories": [
+        "Psychology & personal growth"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/14421850-M.jpg?default=false"
+    },
+    {
+      "id": "3228917",
+      "title": "Outliers: The Story of Success",
+      "author": "Malcolm Gladwell",
+      "sort": "Gladwell, Malcolm",
+      "isbn": "9780316017923",
+      "categories": [
+        "Psychology & personal growth"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/10021591-M.jpg?default=false"
+    },
+    {
+      "id": "2612",
+      "title": "The Tipping Point: How Little Things Can Make a Big Difference",
+      "author": "Malcolm Gladwell",
+      "sort": "Gladwell, Malcolm",
+      "isbn": "",
+      "categories": [
+        "Psychology & personal growth"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/10873292-M.jpg?default=false"
+    },
+    {
+      "id": "19836055",
+      "title": "Transforming the Difficult Child",
+      "author": "Howard Glasser",
+      "sort": "Glasser, Howard",
+      "isbn": "9780967050737",
+      "categories": [
+        "Parenting & relationships"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/732379-M.jpg?default=false"
+    },
+    {
+      "id": "3828382",
+      "title": "Tribes: We Need You to Lead Us",
+      "author": "Seth Godin",
+      "sort": "Godin, Seth",
+      "isbn": "9781591842330",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/3371417-M.jpg?default=false"
+    },
+    {
+      "id": "13642523",
+      "title": "Catastrophic Care: How American Health Care Killed My Father—and How We Can Fix It",
+      "author": "David Goldhill",
+      "sort": "Goldhill, David",
+      "isbn": "9780307961549",
+      "categories": [
+        "Science & medicine"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7271515-M.jpg?default=false"
+    },
+    {
+      "id": "43821581",
+      "title": "The Only Plane in the Sky: An Oral History of 9/11",
+      "author": "Garrett M. Graff",
+      "sort": "Graff, Garrett M.",
+      "isbn": "",
+      "categories": [
+        "History"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8779094-M.jpg?default=false"
+    },
+    {
+      "id": "193388249",
+      "title": "Killers of the Flower Moon: The Osage Murders and the Birth of the FBI",
+      "author": "David Grann",
+      "sort": "Grann, David",
+      "isbn": "9780593470831",
+      "categories": [
+        "True crime"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8055064-M.jpg?default=false"
+    },
+    {
+      "id": "61714633",
+      "title": "The Wager: A Tale of Shipwreck, Mutiny and Murder",
+      "author": "David Grann",
+      "sort": "Grann, David",
+      "isbn": "9780385534260",
+      "categories": [
+        "History"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/13245246-M.jpg?default=false"
+    },
+    {
+      "id": "25614523",
+      "title": "Originals: How Non-Conformists Move the World",
+      "author": "Adam M. Grant",
+      "sort": "Grant, Adam M.",
+      "isbn": "9780525429562",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8237054-M.jpg?default=false"
+    },
+    {
+      "id": "8134716",
+      "title": "Business for the Glory of God; The BIble's Teaching on the Moral Goodness of Business",
+      "author": "Wayne Grudem",
+      "sort": "Grudem, Wayne",
+      "isbn": "9781433512674",
+      "categories": [
+        "Christianity & theology"
+      ]
+    },
+    {
+      "id": "255458",
+      "title": "Systematic Theology: An Introduction to Biblical Doctrine",
+      "author": "Wayne Grudem",
+      "sort": "Grudem, Wayne",
+      "isbn": "9780310286707",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/171102-M.jpg?default=false"
+    },
+    {
+      "id": "7648269",
+      "title": "Empire of the Summer Moon: Quanah Parker and the Rise and Fall of the Comanches, the Most Powerful Indian Tribe in American History",
+      "author": "S.C. Gwynne",
+      "sort": "Gwynne, S.C.",
+      "isbn": "9781416591054",
+      "categories": [
+        "History"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6581373-M.jpg?default=false"
+    },
+    {
+      "id": "171681821",
+      "title": "The Anxious Generation: How the Great Rewiring of Childhood Caused an Epidemic of Mental Illness",
+      "author": "Jonathan Haidt",
+      "sort": "Haidt, Jonathan",
+      "isbn": "9780593655030",
+      "categories": [
+        "Parenting & relationships"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/15104803-M.jpg?default=false"
+    },
+    {
+      "id": "52578297",
+      "title": "The Midnight Library (The Midnight World, #1)",
+      "author": "Matt Haig",
+      "sort": "Haig, Matt",
+      "isbn": "9780525559474",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/10313767-M.jpg?default=false"
+    },
+    {
+      "id": "204927599",
+      "title": "Nexus: A Brief History of Information Networks from the Stone Age to AI",
+      "author": "Yuval Noah Harari",
+      "sort": "Harari, Yuval Noah",
+      "isbn": "9780593734223",
+      "categories": [
+        "History"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/14812834-M.jpg?default=false"
+    },
+    {
+      "id": "23692271",
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "sort": "Harari, Yuval Noah",
+      "isbn": "",
+      "categories": [
+        "History"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8634250-M.jpg?default=false"
+    },
+    {
+      "id": "13159125",
+      "title": "Mastering the Rockefeller Habits: What You Must Do to Increase the Value of Your Growing Firm",
+      "author": "Verne Harnish",
+      "sort": "Harnish, Verne",
+      "isbn": "9780978774974",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/861813-M.jpg?default=false"
+    },
+    {
+      "id": "22212880",
+      "title": "Scaling Up: How a Few Companies Make It...and Why the Rest Don't (Rockefeller Habits 2.0 Revised Edition)",
+      "author": "Verne Harnish",
+      "sort": "Harnish, Verne",
+      "isbn": "9780986019524",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8215424-M.jpg?default=false"
+    },
+    {
+      "id": "1451719",
+      "title": "When Sinners Say \"I Do\": Discovering the Power of the Gospel for Marriage",
+      "author": "Dave Harvey",
+      "sort": "Harvey, Dave",
+      "isbn": "9780976758266",
+      "categories": [
+        "Parenting & relationships"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/1720966-M.jpg?default=false"
+    },
+    {
+      "id": "3869",
+      "title": "A Brief History of Time",
+      "author": "Stephen W. Hawking",
+      "sort": "Hawking, Stephen W.",
+      "isbn": "9780553380163",
+      "categories": [
+        "Science & medicine"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/10432365-M.jpg?default=false"
+    },
+    {
+      "id": "12296",
+      "title": "The Scarlet Letter",
+      "author": "Nathaniel Hawthorne",
+      "sort": "Hawthorne, Nathaniel",
+      "isbn": "9780142437261",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/5654516-M.jpg?default=false"
+    },
+    {
+      "id": "217869789",
+      "title": "The Sirens' Call: How Attention Became the World's Most Endangered Resource",
+      "author": "Christopher L. Hayes",
+      "sort": "Hayes, Christopher L.",
+      "isbn": "9780593653111",
+      "categories": [
+        "Psychology & personal growth"
+      ]
+    },
+    {
+      "id": "69242",
+      "title": "Made to Stick: Why Some Ideas Survive and Others Die",
+      "author": "Chip Heath",
+      "sort": "Heath, Chip",
+      "isbn": "9781400064281",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7004880-M.jpg?default=false"
+    },
+    {
+      "id": "168668",
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "sort": "Heller, Joseph",
+      "isbn": "9780684833392",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6468653-M.jpg?default=false"
+    },
+    {
+      "id": "16124244",
+      "title": "The Dog Stars",
+      "author": "Peter Heller",
+      "sort": "Heller, Peter",
+      "isbn": "",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8226289-M.jpg?default=false"
+    },
+    {
+      "id": "10799",
+      "title": "A Farewell to Arms",
+      "author": "Ernest Hemingway",
+      "sort": "Hemingway, Ernest",
+      "isbn": "9780099910107",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7226599-M.jpg?default=false"
+    },
+    {
+      "id": "2165",
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "sort": "Hemingway, Ernest",
+      "isbn": "9780684830490",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/463307-M.jpg?default=false"
+    },
+    {
+      "id": "3876",
+      "title": "The Sun Also Rises",
+      "author": "Ernest Hemingway",
+      "sort": "Hemingway, Ernest",
+      "isbn": "",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/78741-M.jpg?default=false"
+    },
+    {
+      "id": "39776179",
+      "title": "Dune (Dune #1)",
+      "author": "Frank Herbert",
+      "sort": "Herbert, Frank",
+      "isbn": "9780441013593",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/11481354-M.jpg?default=false"
+    },
+    {
+      "id": "56534999",
+      "title": "Slow Horses (Slough House, #1)",
+      "author": "Mick Herron",
+      "sort": "Herron, Mick",
+      "isbn": "9781641292979",
+      "categories": [
+        "Mystery & thrillers"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8982363-M.jpg?default=false"
+    },
+    {
+      "id": "199798785",
+      "title": "Challenger: A True Story of Heroism and Disaster on the Edge of Space",
+      "author": "Adam Higginbotham",
+      "sort": "Higginbotham, Adam",
+      "isbn": "9781982176617",
+      "categories": [
+        "History"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/14629361-M.jpg?default=false"
+    },
+    {
+      "id": "8664353",
+      "title": "Unbroken: A World War II Story of Survival, Resilience and Redemption",
+      "author": "Laura Hillenbrand",
+      "sort": "Hillenbrand, Laura",
+      "isbn": "9781400064168",
+      "categories": [
+        "Memoir & biography"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6668103-M.jpg?default=false"
+    },
+    {
+      "id": "54769641",
+      "title": "King Leopold's Ghost",
+      "author": "Adam Hochschild",
+      "sort": "Hochschild, Adam",
+      "isbn": "",
+      "categories": [
+        "History"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/392738-M.jpg?default=false"
+    },
+    {
+      "id": "38398157",
+      "title": "Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies",
+      "author": "Reid Hoffman",
+      "sort": "Hoffman, Reid",
+      "isbn": "9781524761417",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8294642-M.jpg?default=false"
+    },
+    {
+      "id": "77265004",
+      "title": "The Iliad",
+      "author": "Homer",
+      "sort": "Homer, Homer",
+      "isbn": "9781324001805",
+      "categories": [
+        "Poetry & drama"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/14626179-M.jpg?default=false"
+    },
+    {
+      "id": "6301085",
+      "title": "The Odyssey",
+      "author": "Homer",
+      "sort": "Homer, Homer",
+      "isbn": "",
+      "categories": [
+        "Poetry & drama"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/15028634-M.jpg?default=false"
+    },
+    {
+      "id": "18176747",
+      "title": "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers―Straight Talk on the Challenges of Entrepreneurship",
+      "author": "Ben Horowitz",
+      "sort": "Horowitz, Ben",
+      "isbn": "9780062273208",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7279515-M.jpg?default=false"
+    },
+    {
+      "id": "4813318",
+      "title": "Christless Christianity: The Alternative Gospel of the American Church",
+      "author": "Michael Scott Horton",
+      "sort": "Horton, Michael Scott",
+      "isbn": "9780801013188",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6277409-M.jpg?default=false"
+    },
+    {
+      "id": "272821",
+      "title": "Putting Amazing Back into Grace: Embracing the Heart of the Gospel",
+      "author": "Michael Scott Horton",
+      "sort": "Horton, Michael Scott",
+      "isbn": "9780801064005",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/563550-M.jpg?default=false"
+    },
+    {
+      "id": "77203",
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "sort": "Hosseini, Khaled",
+      "isbn": "9781594631931",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/14846827-M.jpg?default=false"
+    },
+    {
+      "id": "41881472",
+      "title": "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness",
+      "author": "Morgan Housel",
+      "sort": "Housel, Morgan",
+      "isbn": "",
+      "categories": [
+        "Economics & society"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/10389354-M.jpg?default=false"
+    },
+    {
+      "id": "17306293",
+      "title": "Shift (Silo, #2)",
+      "author": "Hugh Howey",
+      "sort": "Howey, Hugh",
+      "isbn": "",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/11712987-M.jpg?default=false"
+    },
+    {
+      "id": "13453029",
+      "title": "Wool Omnibus (Silo, #1)",
+      "author": "Hugh Howey",
+      "sort": "Howey, Hugh",
+      "isbn": "",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/13016500-M.jpg?default=false"
+    },
+    {
+      "id": "35138433",
+      "title": "Your Best Year Ever: A 5-Step Plan for Achieving Your Most Important Goals",
+      "author": "Michael Hyatt",
+      "sort": "Hyatt, Michael",
+      "isbn": "9780801075254",
+      "categories": [
+        "Psychology & personal growth"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8194872-M.jpg?default=false"
+    },
+    {
+      "id": "10883",
+      "title": "Benjamin Franklin: An American Life",
+      "author": "Walter Isaacson",
+      "sort": "Isaacson, Walter",
+      "isbn": "9780743258074",
+      "categories": [
+        "Memoir & biography"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/541092-M.jpg?default=false"
+    },
+    {
+      "id": "11084145",
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "sort": "Isaacson, Walter",
+      "isbn": "9781451648539",
+      "categories": [
+        "Memoir & biography"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/12374726-M.jpg?default=false"
+    },
+    {
+      "id": "6334",
+      "title": "Never Let Me Go",
+      "author": "Kazuo Ishiguro",
+      "sort": "Ishiguro, Kazuo",
+      "isbn": "9781400078776",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/1047334-M.jpg?default=false"
+    },
+    {
+      "id": "4894",
+      "title": "Who Moved My Cheese?",
+      "author": "Spencer Johnson",
+      "sort": "Johnson, Spencer",
+      "isbn": "9780091883768",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/258839-M.jpg?default=false"
+    },
+    {
+      "id": "11468377",
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "sort": "Kahneman, Daniel",
+      "isbn": "9780374275631",
+      "categories": [
+        "Psychology & personal growth"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/13290711-M.jpg?default=false"
+    },
+    {
+      "id": "8492907",
+      "title": "Physics of the Future: How Science Will Shape Human Destiny and Our Daily Lives by the Year 2100",
+      "author": "Michio Kaku",
+      "sort": "Kaku, Michio",
+      "isbn": "9780385530804",
+      "categories": [
+        "Science & medicine"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6712851-M.jpg?default=false"
+    },
+    {
+      "id": "37875",
+      "title": "The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything",
+      "author": "Guy Kawasaki",
+      "sort": "Kawasaki, Guy",
+      "isbn": "9781591840565",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/5724401-M.jpg?default=false"
+    },
+    {
+      "id": "45430904",
+      "title": "Smash the Funnel: The Cyclonic Buyer Journey--A New Map for Sustainable, Repeatable, Predictable Revenue Generation",
+      "author": "Eric Keiles",
+      "sort": "Keiles, Eric",
+      "isbn": "9780999191392",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/9170330-M.jpg?default=false"
+    },
+    {
+      "id": "10757307",
+      "title": "Counterfeit Gods: The Empty Promises of Money, Sex, and Power, and the Only Hope that Matters",
+      "author": "Timothy J. Keller",
+      "sort": "Keller, Timothy J.",
+      "isbn": "9781594485497",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7341764-M.jpg?default=false"
+    },
+    {
+      "id": "9592838",
+      "title": "Generous Justice: How God's Grace Makes Us Just",
+      "author": "Timothy J. Keller",
+      "sort": "Keller, Timothy J.",
+      "isbn": "9781101444504",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6959409-M.jpg?default=false"
+    },
+    {
+      "id": "7933637",
+      "title": "Gospel in Life Study Guide: Grace Changes Everything",
+      "author": "Timothy J. Keller",
+      "sort": "Keller, Timothy J.",
+      "isbn": "9780310328919",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7341772-M.jpg?default=false"
+    },
+    {
+      "id": "11389341",
+      "title": "The Meaning of Marriage: Facing the Complexities of Commitment with the Wisdom of God",
+      "author": "Timothy J. Keller",
+      "sort": "Keller, Timothy J.",
+      "isbn": "9780525952473",
+      "categories": [
+        "Parenting & relationships"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6895683-M.jpg?default=false"
+    },
+    {
+      "id": "8131255",
+      "title": "The Prodigal God: Recovering the Heart of the Christian Faith",
+      "author": "Timothy J. Keller",
+      "sort": "Keller, Timothy J.",
+      "isbn": "9781440637896",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8539486-M.jpg?default=false"
+    },
+    {
+      "id": "1858013",
+      "title": "The Reason for God: Belief in an Age of Skepticism",
+      "author": "Timothy J. Keller",
+      "sort": "Keller, Timothy J.",
+      "isbn": "9780525950493",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6959410-M.jpg?default=false"
+    },
+    {
+      "id": "5969952",
+      "title": "The Reason for God: Belief in an Age of Skepticism",
+      "author": "Timothy J. Keller",
+      "sort": "Keller, Timothy J.",
+      "isbn": "9781594483493",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6959410-M.jpg?default=false"
+    },
+    {
+      "id": "23398853",
+      "title": "Walking with God through Pain and Suffering",
+      "author": "Timothy J. Keller",
+      "sort": "Keller, Timothy J.",
+      "isbn": "9781594634406",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8624180-M.jpg?default=false"
+    },
+    {
+      "id": "18373",
+      "title": "Flowers for Algernon",
+      "author": "Daniel Keyes",
+      "sort": "Keyes, Daniel",
+      "isbn": "9780156030083",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/12947700-M.jpg?default=false"
+    },
+    {
+      "id": "246844",
+      "title": "Grace Based Parenting: Set Your Family Free",
+      "author": "Tim Kimmel",
+      "sort": "Kimmel, Tim",
+      "isbn": "9780849905483",
+      "categories": [
+        "Parenting & relationships"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/1599930-M.jpg?default=false"
+    },
+    {
+      "id": "5148",
+      "title": "A Separate Peace",
+      "author": "John Knowles",
+      "sort": "Knowles, John",
+      "isbn": "",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/10628378-M.jpg?default=false"
+    },
+    {
+      "id": "60869516",
+      "title": "Into the Wild",
+      "author": "Jon Krakauer",
+      "sort": "Krakauer, Jon",
+      "isbn": "",
+      "categories": [
+        "Memoir & biography"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/1377482-M.jpg?default=false"
+    },
+    {
+      "id": "1898",
+      "title": "Into Thin Air: A Personal Account of the Mt. Everest Disaster",
+      "author": "Jon Krakauer",
+      "sort": "Krakauer, Jon",
+      "isbn": "",
+      "categories": [
+        "Memoir & biography"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/241603-M.jpg?default=false"
+    },
+    {
+      "id": "77276",
+      "title": "A Swiftly Tilting Planet (Time Quintet, #3)",
+      "author": "Madeleine L'Engle",
+      "sort": "L'Engle, Madeleine",
+      "isbn": "9780440401582",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8223424-M.jpg?default=false"
+    },
+    {
+      "id": "18130",
+      "title": "A Wind in the Door (Time Quintet, #2)",
+      "author": "Madeleine L'Engle",
+      "sort": "L'Engle, Madeleine",
+      "isbn": "9780440487616",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8276481-M.jpg?default=false"
+    },
+    {
+      "id": "33574273",
+      "title": "A Wrinkle in Time (Time Quintet, #1)",
+      "author": "Madeleine L'Engle",
+      "sort": "L'Engle, Madeleine",
+      "isbn": "9781250153272",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8709146-M.jpg?default=false"
+    },
+    {
+      "id": "113877",
+      "title": "The Bogleheads' Guide to Investing",
+      "author": "Taylor Larimore",
+      "sort": "Larimore, Taylor",
+      "isbn": "9780470067369",
+      "categories": [
+        "Economics & society"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7582761-M.jpg?default=false"
+    },
+    {
+      "id": "239186",
+      "title": "Isaac's Storm: A Man, a Time, and the Deadliest Hurricane in History",
+      "author": "Erik Larson",
+      "sort": "Larson, Erik",
+      "isbn": "9780375708275",
+      "categories": [
+        "History"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/4724450-M.jpg?default=false"
+    },
+    {
+      "id": "195608683",
+      "title": "The Demon of Unrest: A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War",
+      "author": "Erik Larson",
+      "sort": "Larson, Erik",
+      "isbn": "9780385348744",
+      "categories": [
+        "History"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/14837041-M.jpg?default=false"
+    },
+    {
+      "id": "397483",
+      "title": "The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",
+      "author": "Erik Larson",
+      "sort": "Larson, Erik",
+      "isbn": "9780609608449",
+      "categories": [
+        "History"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/541027-M.jpg?default=false"
+    },
+    {
+      "id": "51187948",
+      "title": "The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz",
+      "author": "Erik Larson",
+      "sort": "Larson, Erik",
+      "isbn": "9780385348720",
+      "categories": [
+        "History"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/9293917-M.jpg?default=false"
+    },
+    {
+      "id": "32025754",
+      "title": "Wild Ride: Inside Uber's Quest for World Domination",
+      "author": "Adam Lashinsky",
+      "sort": "Lashinsky, Adam",
+      "isbn": "9780735211391",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8111915-M.jpg?default=false"
+    },
+    {
+      "id": "2657",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "sort": "Lee, Harper",
+      "isbn": "9780060935467",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/14351077-M.jpg?default=false"
+    },
+    {
+      "id": "1202",
+      "title": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
+      "author": "Steven D. Levitt",
+      "sort": "Levitt, Steven D.",
+      "isbn": "9780061234002",
+      "categories": [
+        "Economics & society"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/11172914-M.jpg?default=false"
+    },
+    {
+      "id": "11138",
+      "title": "Mere Christianity",
+      "author": "C.S. Lewis",
+      "sort": "Lewis, C.S.",
+      "isbn": "9780684823782",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6538891-M.jpg?default=false"
+    },
+    {
+      "id": "7806796",
+      "title": "Prince Caspian (Chronicles of Narnia, #4)",
+      "author": "C.S. Lewis",
+      "sort": "Lewis, C.S.",
+      "isbn": "",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/45897-M.jpg?default=false"
+    },
+    {
+      "id": "25845273",
+      "title": "The Great Divorce",
+      "author": "C.S. Lewis",
+      "sort": "Lewis, C.S.",
+      "isbn": "",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6984074-M.jpg?default=false"
+    },
+    {
+      "id": "84119",
+      "title": "The Horse and His Boy (Chronicles of Narnia, #5)",
+      "author": "C.S. Lewis",
+      "sort": "Lewis, C.S.",
+      "isbn": "9780439861366",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/9184792-M.jpg?default=false"
+    },
+    {
+      "id": "84369",
+      "title": "The Last Battle (Chronicles of Narnia, #7)",
+      "author": "C.S. Lewis",
+      "sort": "Lewis, C.S.",
+      "isbn": "9780007202324",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6529226-M.jpg?default=false"
+    },
+    {
+      "id": "132080146",
+      "title": "The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",
+      "author": "C.S. Lewis",
+      "sort": "Lewis, C.S.",
+      "isbn": "",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8441376-M.jpg?default=false"
+    },
+    {
+      "id": "65605",
+      "title": "The Magician’s Nephew (Chronicles of Narnia, #6)",
+      "author": "C.S. Lewis",
+      "sort": "Lewis, C.S.",
+      "isbn": "9780060764906",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/1072931-M.jpg?default=false"
+    },
+    {
+      "id": "13650513",
+      "title": "The Problem of Pain",
+      "author": "C.S. Lewis",
+      "sort": "Lewis, C.S.",
+      "isbn": "9780007461264",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/10441900-M.jpg?default=false"
+    },
+    {
+      "id": "10167395",
+      "title": "The Silver Chair (Chronicles of Narnia, #6) (Publication Order, #4)",
+      "author": "C.S. Lewis",
+      "sort": "Lewis, C.S.",
+      "isbn": "",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6950992-M.jpg?default=false"
+    },
+    {
+      "id": "140225",
+      "title": "The Voyage of the Dawn Treader (Chronicles of Narnia, #3)",
+      "author": "C.S. Lewis",
+      "sort": "Lewis, C.S.",
+      "isbn": "9780061125270",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/9184719-M.jpg?default=false"
+    },
+    {
+      "id": "3636",
+      "title": "The Giver (Giver, #1)",
+      "author": "Lois Lowry",
+      "sort": "Lowry, Lois",
+      "isbn": "9780385732550",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8352502-M.jpg?default=false"
+    },
+    {
+      "id": "42373033",
+      "title": "The Price We Pay: What Broke American Health Care—and How to Fix It",
+      "author": "Marty Makary",
+      "sort": "Makary, Marty",
+      "isbn": "9781635574111",
+      "categories": [
+        "Science & medicine"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8908430-M.jpg?default=false"
+    },
+    {
+      "id": "48574083",
+      "title": "A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing",
+      "author": "Burton G. Malkiel",
+      "sort": "Malkiel, Burton G.",
+      "isbn": "9780393358384",
+      "categories": [
+        "Economics & society"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/10328035-M.jpg?default=false"
+    },
+    {
+      "id": "20170404",
+      "title": "Station Eleven",
+      "author": "Emily St. John Mandel",
+      "sort": "Mandel, Emily St. John",
+      "isbn": "9780385353304",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7369961-M.jpg?default=false"
+    },
+    {
+      "id": "604597",
+      "title": "African Friends and Money Matters: Observations from Africa (Publications in Ethnography, Vol. 37)",
+      "author": "David E. Maranz",
+      "sort": "Maranz, David E.",
+      "isbn": "9781556711176",
+      "categories": [
+        "Economics & society"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/779011-M.jpg?default=false"
+    },
+    {
+      "id": "18923721",
+      "title": "The ICU Book",
+      "author": "Paul L. Marino",
+      "sort": "Marino, Paul L.",
+      "isbn": "9781451146394",
+      "categories": [
+        "Science & medicine"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/424367-M.jpg?default=false"
+    },
+    {
+      "id": "57726542",
+      "title": "Infinity Investing: How The Rich Get Richer And How You Can Do The Same",
+      "author": "Toby Mathis",
+      "sort": "Mathis, Toby",
+      "isbn": "9798887508795",
+      "categories": [
+        "Economics & society"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/11329773-M.jpg?default=false"
+    },
+    {
+      "id": "469571",
+      "title": "All the Pretty Horses (The Border Trilogy, #1)",
+      "author": "Cormac McCarthy",
+      "sort": "McCarthy, Cormac",
+      "isbn": "9780679744399",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/9296904-M.jpg?default=false"
+    },
+    {
+      "id": "23515727",
+      "title": "No Country for Old Men",
+      "author": "Cormac McCarthy",
+      "sort": "McCarthy, Cormac",
+      "isbn": "9780375706677",
+      "categories": [
+        "Mystery & thrillers"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/9296899-M.jpg?default=false"
+    },
+    {
+      "id": "6288",
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "sort": "McCarthy, Cormac",
+      "isbn": "9780307265432",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/198120-M.jpg?default=false"
+    },
+    {
+      "id": "22609391",
+      "title": "The Wright Brothers",
+      "author": "David McCullough",
+      "sort": "McCullough, David",
+      "isbn": "",
+      "categories": [
+        "Memoir & biography"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7317364-M.jpg?default=false"
+    },
+    {
+      "id": "256008",
+      "title": "Lonesome Dove (Lonesome Dove, #1)",
+      "author": "Larry McMurtry",
+      "sort": "McMurtry, Larry",
+      "isbn": "9780671683900",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8376548-M.jpg?default=false"
+    },
+    {
+      "id": "35068432",
+      "title": "I'll Be Gone in the Dark: One Woman's Obsessive Search for the Golden State Killer",
+      "author": "Michelle McNamara",
+      "sort": "McNamara, Michelle",
+      "isbn": "9780062319807",
+      "categories": [
+        "True crime"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8351551-M.jpg?default=false"
+    },
+    {
+      "id": "4251902",
+      "title": "American Rust",
+      "author": "Philipp Meyer",
+      "sort": "Meyer, Philipp",
+      "isbn": "9780385527514",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6995983-M.jpg?default=false"
+    },
+    {
+      "id": "21335778",
+      "title": "The Son",
+      "author": "Philipp Meyer",
+      "sort": "Meyer, Philipp",
+      "isbn": "9780857209443",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/9007607-M.jpg?default=false"
+    },
+    {
+      "id": "6576965",
+      "title": "Signature in the Cell: DNA and the Evidence for Intelligent Design",
+      "author": "Stephen C. Meyer",
+      "sort": "Meyer, Stephen C.",
+      "isbn": "9780061472787",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6393172-M.jpg?default=false"
+    },
+    {
+      "id": "40097951",
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "sort": "Michaelides, Alex",
+      "isbn": "9781250301697",
+      "categories": [
+        "Mystery & thrillers"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/9407338-M.jpg?default=false"
+    },
+    {
+      "id": "10335318",
+      "title": "Destiny of the Republic: A Tale of Madness, Medicine and the Murder of a President",
+      "author": "Candice Millard",
+      "sort": "Millard, Candice",
+      "isbn": "9780385526265",
+      "categories": [
+        "History"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7014972-M.jpg?default=false"
+    },
+    {
+      "id": "60321447",
+      "title": "Chip War: The Fight for the World's Most Critical Technology",
+      "author": "Chris Miller",
+      "sort": "Miller, Chris",
+      "isbn": "9781982172008",
+      "categories": [
+        "History"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/12968901-M.jpg?default=false"
+    },
+    {
+      "id": "7214",
+      "title": "Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality",
+      "author": "Donald Miller",
+      "sort": "Miller, Donald",
+      "isbn": "9780785263708",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/537185-M.jpg?default=false"
+    },
+    {
+      "id": "30962339",
+      "title": "A Praying Life: Connecting with God in a Distracting World",
+      "author": "Paul E. Miller",
+      "sort": "Miller, Paul E.",
+      "isbn": "9781631466830",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8849800-M.jpg?default=false"
+    },
+    {
+      "id": "61329",
+      "title": "Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers",
+      "author": "Geoffrey A. Moore",
+      "sort": "Moore, Geoffrey A.",
+      "isbn": "9780060517120",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/684159-M.jpg?default=false"
+    },
+    {
+      "id": "28363972",
+      "title": "The Last Days of Night",
+      "author": "Graham Moore",
+      "sort": "Moore, Graham",
+      "isbn": "9780812988901",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/13047662-M.jpg?default=false"
+    },
+    {
+      "id": "6114520",
+      "title": "Adopted for Life: The Priority of Adoption for Christian Families & Churches",
+      "author": "Russell D. Moore",
+      "sort": "Moore, Russell D.",
+      "isbn": "9781581349115",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7341961-M.jpg?default=false"
+    },
+    {
+      "id": "6149",
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "sort": "Morrison, Toni",
+      "isbn": "",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8261367-M.jpg?default=false"
+    },
+    {
+      "id": "6184317",
+      "title": "Dead Aid: Why Aid Is Not Working and How There Is a Better Way for Africa",
+      "author": "Dambisa Moyo",
+      "sort": "Moyo, Dambisa",
+      "isbn": "9780374139568",
+      "categories": [
+        "Economics & society"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6293811-M.jpg?default=false"
+    },
+    {
+      "id": "7170627",
+      "title": "The Emperor of All Maladies: A Biography of Cancer",
+      "author": "Siddhartha Mukherjee",
+      "sort": "Mukherjee, Siddhartha",
+      "isbn": "",
+      "categories": [
+        "Science & medicine"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/11320203-M.jpg?default=false"
+    },
+    {
+      "id": "210943348",
+      "title": "Patriot: A Memoir",
+      "author": "Alexei Navalny",
+      "sort": "Navalny, Alexei",
+      "isbn": "9780593320969",
+      "categories": [
+        "Memoir & biography"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/15102438-M.jpg?default=false"
+    },
+    {
+      "id": "25744928",
+      "title": "Deep Work: Rules for Focused Success in a Distracted World",
+      "author": "Cal Newport",
+      "sort": "Newport, Cal",
+      "isbn": "9781455586691",
+      "categories": [
+        "Psychology & personal growth"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7988607-M.jpg?default=false"
+    },
+    {
+      "id": "51540935",
+      "title": "The Whisper Man",
+      "author": "Alex North",
+      "sort": "North, Alex",
+      "isbn": "9781250318008",
+      "categories": [
+        "Mystery & thrillers"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8758647-M.jpg?default=false"
+    },
+    {
+      "id": "133518",
+      "title": "The Things They Carried",
+      "author": "Tim O'Brien",
+      "sort": "O'Brien, Tim",
+      "isbn": "9780767902892",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/12639079-M.jpg?default=false"
+    },
+    {
+      "id": "52891090",
+      "title": "Gentle and Lowly: The Heart of Christ for Sinners and Sufferers",
+      "author": "Dane C. Ortlund",
+      "sort": "Ortlund, Dane C.",
+      "isbn": "9781433566134",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/12391363-M.jpg?default=false"
+    },
+    {
+      "id": "235774905",
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "sort": "Orwell, George",
+      "isbn": "9781916700840",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/11261770-M.jpg?default=false"
+    },
+    {
+      "id": "117967",
+      "title": "Overcoming Sin and Temptation",
+      "author": "John Owen",
+      "sort": "Owen, John",
+      "isbn": "9781581346497",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/842212-M.jpg?default=false"
+    },
+    {
+      "id": "272872",
+      "title": "Keep in Step with the Spirit: Finding Fullness in Our Walk with God",
+      "author": "J.I. Packer",
+      "sort": "Packer, J.I.",
+      "isbn": "9780801065583",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/563671-M.jpg?default=false"
+    },
+    {
+      "id": "13374009",
+      "title": "Knowing God",
+      "author": "J.I. Packer",
+      "sort": "Packer, J.I.",
+      "isbn": "",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/633415-M.jpg?default=false"
+    },
+    {
+      "id": "562521",
+      "title": "In Search of Excellence: Lessons from America's Best-Run Companies",
+      "author": "Thomas J. Peters",
+      "sort": "Peters, Thomas J.",
+      "isbn": "9780060548780",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/4226698-M.jpg?default=false"
+    },
+    {
+      "id": "1830275",
+      "title": "A Godward Life: Savoring the Supremacy of God in All of Life",
+      "author": "John Piper",
+      "sort": "Piper, John",
+      "isbn": "9781576731833",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/830757-M.jpg?default=false"
+    },
+    {
+      "id": "213367",
+      "title": "Desiring God: Meditations of a Christian Hedonist",
+      "author": "John Piper",
+      "sort": "Piper, John",
+      "isbn": "9781590521199",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/876658-M.jpg?default=false"
+    },
+    {
+      "id": "9640896",
+      "title": "Don't Waste Your Cancer",
+      "author": "John Piper",
+      "sort": "Piper, John",
+      "isbn": "9781433523229",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/10308830-M.jpg?default=false"
+    },
+    {
+      "id": "347656",
+      "title": "Don't Waste Your Life",
+      "author": "John Piper",
+      "sort": "Piper, John",
+      "isbn": "9781581344981",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/842180-M.jpg?default=false"
+    },
+    {
+      "id": "6245459",
+      "title": "Filling Up the Afflictions of Christ: The Cost of Bringing the Gospel to the Nations in the Lives of William Tyndale, Adoniram Judson, and John Paton (The Swans Are Not Silent #5)",
+      "author": "John Piper",
+      "sort": "Piper, John",
+      "isbn": "9781433510465",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8502166-M.jpg?default=false"
+    },
+    {
+      "id": "45366",
+      "title": "Future Grace",
+      "author": "John Piper",
+      "sort": "Piper, John",
+      "isbn": "9781590521915",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/4735293-M.jpg?default=false"
+    },
+    {
+      "id": "1380922",
+      "title": "Let the Nations Be Glad!: The Supremacy of God in Missions",
+      "author": "John Piper",
+      "sort": "Piper, John",
+      "isbn": "9780801071249",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/563780-M.jpg?default=false"
+    },
+    {
+      "id": "45365",
+      "title": "Seeing and Savoring Jesus Christ",
+      "author": "John Piper",
+      "sort": "Piper, John",
+      "isbn": "9781581346237",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/842192-M.jpg?default=false"
+    },
+    {
+      "id": "210226",
+      "title": "Sex and the Supremacy of Christ",
+      "author": "John Piper",
+      "sort": "Piper, John",
+      "isbn": "9781581346978",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/842242-M.jpg?default=false"
+    },
+    {
+      "id": "45350",
+      "title": "Suffering and the Sovereignty of God",
+      "author": "John Piper",
+      "sort": "Piper, John",
+      "isbn": "9781581348095",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/842319-M.jpg?default=false"
+    },
+    {
+      "id": "45358",
+      "title": "The Hidden Smile of God: The Fruit of Affliction in the Lives of John Bunyan, William Cowper, and David Brainerd (The Swans Are Not Silent, #2)",
+      "author": "John Piper",
+      "sort": "Piper, John",
+      "isbn": "9781581342475",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/841946-M.jpg?default=false"
+    },
+    {
+      "id": "45354",
+      "title": "The Legacy of Sovereign Joy: God's Triumphant Grace in the Lives of Augustine, Luther, and Calvin (The Swans Are Not Silent, #1)",
+      "author": "John Piper",
+      "sort": "Piper, John",
+      "isbn": "9781581348132",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/841901-M.jpg?default=false"
+    },
+    {
+      "id": "45362",
+      "title": "The Passion of Jesus Christ",
+      "author": "John Piper",
+      "sort": "Piper, John",
+      "isbn": "9781581346084",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6549854-M.jpg?default=false"
+    },
+    {
+      "id": "45364",
+      "title": "The Pleasures of God: Meditations on God's Delight in Being God",
+      "author": "John Piper",
+      "sort": "Piper, John",
+      "isbn": "9781576736654",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/830919-M.jpg?default=false"
+    },
+    {
+      "id": "45359",
+      "title": "The Roots of Endurance: Invincible Perseverance in the Lives of John Newton, Charles Simeon, and William Wilberforce (Swans Are Not Silent, #3)",
+      "author": "John Piper",
+      "sort": "Piper, John",
+      "isbn": "9781581348149",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/842062-M.jpg?default=false"
+    },
+    {
+      "id": "45347",
+      "title": "What Jesus Demands from the World",
+      "author": "John Piper",
+      "sort": "Piper, John",
+      "isbn": "9781581348453",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/842333-M.jpg?default=false"
+    },
+    {
+      "id": "45352",
+      "title": "When I Don't Desire God: How to Fight For Joy",
+      "author": "John Piper",
+      "sort": "Piper, John",
+      "isbn": "9781581346527",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/842215-M.jpg?default=false"
+    },
+    {
+      "id": "6080920",
+      "title": "When I Don't Desire God: How to Fight For Joy: Study Guide",
+      "author": "John Piper",
+      "sort": "Piper, John",
+      "isbn": "",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/842215-M.jpg?default=false"
+    },
+    {
+      "id": "45348",
+      "title": "When the Darkness Will Not Lift: Doing What We Can While We Wait for God—And Joy",
+      "author": "John Piper",
+      "sort": "Piper, John",
+      "isbn": "9781581348767",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/842340-M.jpg?default=false"
+    },
+    {
+      "id": "629",
+      "title": "Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Phaedrus, #1)",
+      "author": "Robert M. Pirsig",
+      "sort": "Pirsig, Robert M.",
+      "isbn": "9780060589462",
+      "categories": [
+        "Philosophy & literary studies"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/10673266-M.jpg?default=false"
+    },
+    {
+      "id": "7497897",
+      "title": "Radical: Taking Back Your Faith from the American Dream",
+      "author": "David Platt",
+      "sort": "Platt, David",
+      "isbn": "9781601422217",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7895752-M.jpg?default=false"
+    },
+    {
+      "id": "899492",
+      "title": "The Tell-Tale Heart",
+      "author": "Edgar Allan Poe",
+      "sort": "Poe, Edgar Allan",
+      "isbn": "9780871917720",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/11851436-M.jpg?default=false"
+    },
+    {
+      "id": "7015635",
+      "title": "Food Rules: An Eater's Manual",
+      "author": "Michael Pollan",
+      "sort": "Pollan, Michael",
+      "isbn": "9780143116387",
+      "categories": [
+        "Science & medicine"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6305235-M.jpg?default=false"
+    },
+    {
+      "id": "652063",
+      "title": "Five Families: The Rise, Decline, and Resurgence of America's Most Powerful Mafia Empires",
+      "author": "Selwyn Raab",
+      "sort": "Raab, Selwyn",
+      "isbn": "9780312300944",
+      "categories": [
+        "True crime"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/178848-M.jpg?default=false"
+    },
+    {
+      "id": "2122",
+      "title": "The Fountainhead",
+      "author": "Ayn Rand",
+      "sort": "Rand, Ayn",
+      "isbn": "",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6767765-M.jpg?default=false"
+    },
+    {
+      "id": "6466321",
+      "title": "Money, Greed, and God: Why Capitalism Is the Solution and Not the Problem",
+      "author": "Jay W. Richards",
+      "sort": "Richards, Jay W.",
+      "isbn": "9780061375613",
+      "categories": [
+        "Economics & society"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/9463352-M.jpg?default=false"
+    },
+    {
+      "id": "10127019",
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "sort": "Ries, Eric",
+      "isbn": "9780307887894",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7104760-M.jpg?default=false"
+    },
+    {
+      "id": "31253737",
+      "title": "An American Sickness: How Healthcare Became Big Business and How You Can Take It Back",
+      "author": "Elisabeth Rosenthal",
+      "sort": "Rosenthal, Elisabeth",
+      "isbn": "9781524756208",
+      "categories": [
+        "Science & medicine"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8846266-M.jpg?default=false"
+    },
+    {
+      "id": "9854",
+      "title": "The End of Poverty: Economic Possibilities for Our Time",
+      "author": "Jeffrey D. Sachs",
+      "sort": "Sachs, Jeffrey D.",
+      "isbn": "9780143036586",
+      "categories": [
+        "Economics & society"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/452515-M.jpg?default=false"
+    },
+    {
+      "id": "5107",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "sort": "Salinger, J.D.",
+      "isbn": "9780316769174",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/9273490-M.jpg?default=false"
+    },
+    {
+      "id": "33098680",
+      "title": "Emotionally Healthy Relationships Day by Day: A 40-Day Journey to Deeply Change Your Relationships",
+      "author": "Peter Scazzero",
+      "sort": "Scazzero, Peter",
+      "isbn": "9780310349594",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/13161596-M.jpg?default=false"
+    },
+    {
+      "id": "60355730",
+      "title": "Emotionally Healthy Relationships Updated Edition Workbook plus Streaming Video: Discipleship that Deeply Changes Your Relationship with Others",
+      "author": "Peter Scazzero",
+      "sort": "Scazzero, Peter",
+      "isbn": "",
+      "categories": [
+        "Christianity & theology"
+      ]
+    },
+    {
+      "id": "8153023",
+      "title": "Emotionally Healthy Spirituality: Unleash A Revolution In Your Life in Christ",
+      "author": "Peter Scazzero",
+      "sort": "Scazzero, Peter",
+      "isbn": "",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/10309005-M.jpg?default=false"
+    },
+    {
+      "id": "6638244",
+      "title": "A Patriot's History of the United States: From Columbus's Great Discovery to the War on Terror",
+      "author": "Larry Schweikart",
+      "sort": "Schweikart, Larry",
+      "isbn": "9781101217788",
+      "categories": [
+        "History"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6454325-M.jpg?default=false"
+    },
+    {
+      "id": "7714",
+      "title": "Pygmalion",
+      "author": "George Bernard Shaw",
+      "sort": "Shaw, George Bernard",
+      "isbn": "9780486282220",
+      "categories": [
+        "Poetry & drama"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/9267223-M.jpg?default=false"
+    },
+    {
+      "id": "232794534",
+      "title": "Liturgies of the Wild: Myths That Make Us",
+      "author": "Martin Shaw",
+      "sort": "Shaw, Martin",
+      "isbn": "9780593716564",
+      "categories": [
+        "Philosophy & literary studies"
+      ]
+    },
+    {
+      "id": "35031085",
+      "title": "Frankenstein",
+      "author": "Mary Wollstonecraft Shelley",
+      "sort": "Shelley, Mary Wollstonecraft",
+      "isbn": "9780143131847",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7267770-M.jpg?default=false"
+    },
+    {
+      "id": "40873423",
+      "title": "No-Drama Discipline: The Whole-Brain Way to Calm the Chaos and Nurture Your Child's Developing Mind",
+      "author": "Daniel J. Siegel",
+      "sort": "Siegel, Daniel J.",
+      "isbn": "9780345548054",
+      "categories": [
+        "Parenting & relationships"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/12740392-M.jpg?default=false"
+    },
+    {
+      "id": "25343",
+      "title": "Parenting from the Inside Out: How a Deeper Self-Understanding Can Help You Raise Children Who Thrive",
+      "author": "Daniel J. Siegel",
+      "sort": "Siegel, Daniel J.",
+      "isbn": "9781585422951",
+      "categories": [
+        "Parenting & relationships"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/850160-M.jpg?default=false"
+    },
+    {
+      "id": "38390751",
+      "title": "The Infinite Game",
+      "author": "Simon Sinek",
+      "sort": "Sinek, Simon",
+      "isbn": "9780735213500",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/10189716-M.jpg?default=false"
+    },
+    {
+      "id": "19366797",
+      "title": "Oedipus the King",
+      "author": "Sophocles",
+      "sort": "Sophocles, Sophocles",
+      "isbn": "9780226768694",
+      "categories": [
+        "Poetry & drama"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8578562-M.jpg?default=false"
+    },
+    {
+      "id": "10088291",
+      "title": "Basic Economics: A Common Sense Guide to the Economy",
+      "author": "Thomas Sowell",
+      "sort": "Sowell, Thomas",
+      "isbn": "",
+      "categories": [
+        "Economics & society"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/1468594-M.jpg?default=false"
+    },
+    {
+      "id": "2064279",
+      "title": "Economic Facts and Fallacies",
+      "author": "Thomas Sowell",
+      "sort": "Sowell, Thomas",
+      "isbn": "9780465003495",
+      "categories": [
+        "Economics & society"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/2423160-M.jpg?default=false"
+    },
+    {
+      "id": "18652907",
+      "title": "Not a Chance: God, Science, and the Revolt against Reason",
+      "author": "R.C. Sproul",
+      "sort": "Sproul, R.C.",
+      "isbn": "9780801016219",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/563812-M.jpg?default=false"
+    },
+    {
+      "id": "36638638",
+      "title": "The Path Between Us: An Enneagram Journey to Healthy Relationships",
+      "author": "Suzanne Stabile",
+      "sort": "Stabile, Suzanne",
+      "isbn": "9780830846429",
+      "categories": [
+        "Psychology & personal growth"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/14768184-M.jpg?default=false"
+    },
+    {
+      "id": "4406",
+      "title": "East of Eden",
+      "author": "John Steinbeck",
+      "sort": "Steinbeck, John",
+      "isbn": "9780142000656",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/11386937-M.jpg?default=false"
+    },
+    {
+      "id": "890",
+      "title": "Of Mice and Men",
+      "author": "John Steinbeck",
+      "sort": "Steinbeck, John",
+      "isbn": "9780142000670",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/14319003-M.jpg?default=false"
+    },
+    {
+      "id": "61240297",
+      "title": "Snow Crash",
+      "author": "Neal Stephenson",
+      "sort": "Stephenson, Neal",
+      "isbn": "9780593599730",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/392508-M.jpg?default=false"
+    },
+    {
+      "id": "21042569",
+      "title": "Beyond Medicine: What Else You Need to Know to Be a Healthcare Missionary",
+      "author": "David Stevens",
+      "sort": "Stevens, David",
+      "isbn": "",
+      "categories": [
+        "Christianity & theology"
+      ]
+    },
+    {
+      "id": "17660462",
+      "title": "The Everything Store: Jeff Bezos and the Age of Amazon",
+      "author": "Brad Stone",
+      "sort": "Stone, Brad",
+      "isbn": "9780316219266",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7264584-M.jpg?default=false"
+    },
+    {
+      "id": "6545946",
+      "title": "Basic Christianity",
+      "author": "John R.W. Stott",
+      "sort": "Stott, John R.W.",
+      "isbn": "",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/876685-M.jpg?default=false"
+    },
+    {
+      "id": "242472",
+      "title": "The Black Swan: The Impact of the Highly Improbable",
+      "author": "Nassim Nicholas Taleb",
+      "sort": "Taleb, Nassim Nicholas",
+      "isbn": "9781400063512",
+      "categories": [
+        "Psychology & personal growth"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/5721840-M.jpg?default=false"
+    },
+    {
+      "id": "10808015",
+      "title": "Jesus + Nothing = Everything",
+      "author": "Tullian Tchividjian",
+      "sort": "Tchividjian, Tullian",
+      "isbn": "9781433507786",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7010464-M.jpg?default=false"
+    },
+    {
+      "id": "23995360",
+      "title": "Superforecasting: The Art and Science of Prediction",
+      "author": "Philip E. Tetlock",
+      "sort": "Tetlock, Philip E.",
+      "isbn": "9780804136693",
+      "categories": [
+        "Psychology & personal growth"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/9142114-M.jpg?default=false"
+    },
+    {
+      "id": "18050143",
+      "title": "Zero to One: Notes on Startups, or How to Build the Future",
+      "author": "Peter Thiel",
+      "sort": "Thiel, Peter",
+      "isbn": "9780804139298",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/9002334-M.jpg?default=false"
+    },
+    {
+      "id": "24043208",
+      "title": "The Soul of Shame: Retelling the Stories We Believe About Ourselves",
+      "author": "Curt Thompson",
+      "sort": "Thompson, Curt",
+      "isbn": "9780830844333",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7898695-M.jpg?default=false"
+    },
+    {
+      "id": "6780256",
+      "title": "Enough: Why the World's Poorest Starve in an Age of Plenty",
+      "author": "Roger Thurow",
+      "sort": "Thurow, Roger",
+      "isbn": "9781586488185",
+      "categories": [
+        "Economics & society"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/9430793-M.jpg?default=false"
+    },
+    {
+      "id": "61215351",
+      "title": "The Fellowship of the Ring (The Lord of the Rings, #1)",
+      "author": "J.R.R. Tolkien",
+      "sort": "Tolkien, J.R.R.",
+      "isbn": "",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/14627060-M.jpg?default=false"
+    },
+    {
+      "id": "38819529",
+      "title": "The Hobbit (Middle Earth, #0)",
+      "author": "J.R.R. Tolkien",
+      "sort": "Tolkien, J.R.R.",
+      "isbn": "",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/14627509-M.jpg?default=false"
+    },
+    {
+      "id": "5907",
+      "title": "The Hobbit, or There and Back Again",
+      "author": "J.R.R. Tolkien",
+      "sort": "Tolkien, J.R.R.",
+      "isbn": "",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/14627509-M.jpg?default=false"
+    },
+    {
+      "id": "61215384",
+      "title": "The Return of the King (The Lord of the Rings, #3)",
+      "author": "J.R.R. Tolkien",
+      "sort": "Tolkien, J.R.R.",
+      "isbn": "",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/14627062-M.jpg?default=false"
+    },
+    {
+      "id": "61215372",
+      "title": "The Two Towers (The Lord of the Rings, #2)",
+      "author": "J.R.R. Tolkien",
+      "sort": "Tolkien, J.R.R.",
+      "isbn": "",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/14627564-M.jpg?default=false"
+    },
+    {
+      "id": "40915762",
+      "title": "Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again",
+      "author": "Eric J. Topol",
+      "sort": "Topol, Eric J.",
+      "isbn": "9781541644632",
+      "categories": [
+        "Science & medicine"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/9167490-M.jpg?default=false"
+    },
+    {
+      "id": "22825546",
+      "title": "The Patient Will See You Now: The Future of Medicine is in Your Hands",
+      "author": "Eric J. Topol",
+      "sort": "Topol, Eric J.",
+      "isbn": "9780465054749",
+      "categories": [
+        "Science & medicine"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/11693021-M.jpg?default=false"
+    },
+    {
+      "id": "34066798",
+      "title": "A Gentleman in Moscow",
+      "author": "Amor Towles",
+      "sort": "Towles, Amor",
+      "isbn": "",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/11326818-M.jpg?default=false"
+    },
+    {
+      "id": "672493",
+      "title": "The Pursuit of God: The Human Thirst for the Divine",
+      "author": "A.W. Tozer",
+      "sort": "Tozer, A.W.",
+      "isbn": "9780875093666",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/666870-M.jpg?default=false"
+    },
+    {
+      "id": "21535016",
+      "title": "The CEO Tightrope: How to Master the Balancing Act of a Successful CEO",
+      "author": "Joel Trammell",
+      "sort": "Trammell, Joel",
+      "isbn": "9781626341067",
+      "categories": [
+        "Business & leadership"
+      ]
+    },
+    {
+      "id": "6066573",
+      "title": "A Shelter in the Time of Storm: Meditations on God and Trouble",
+      "author": "Paul David Tripp",
+      "sort": "Tripp, Paul David",
+      "isbn": "9781433505980",
+      "categories": [
+        "Christianity & theology"
+      ]
+    },
+    {
+      "id": "4238723",
+      "title": "How People Change",
+      "author": "Paul David Tripp",
+      "sort": "Tripp, Paul David",
+      "isbn": "9781934885536",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/12444368-M.jpg?default=false"
+    },
+    {
+      "id": "19353106",
+      "title": "New Morning Mercies: A Daily Gospel Devotional",
+      "author": "Paul David Tripp",
+      "sort": "Tripp, Paul David",
+      "isbn": "9781433541384",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/12819262-M.jpg?default=false"
+    },
+    {
+      "id": "38395467",
+      "title": "Suffering: Gospel Hope When Life Doesn't Make Sense",
+      "author": "Paul David Tripp",
+      "sort": "Tripp, Paul David",
+      "isbn": "9781433556777",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/9237554-M.jpg?default=false"
+    },
+    {
+      "id": "11366",
+      "title": "The Guns of August",
+      "author": "Barbara W. Tuchman",
+      "sort": "Tuchman, Barbara W.",
+      "isbn": "9780345476098",
+      "categories": [
+        "History"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/6616967-M.jpg?default=false"
+    },
+    {
+      "id": "55782918",
+      "title": "The Intentional Father: A Practical Guide to Raise Sons of Courage and Character | Parenting Boys for a Dad to Be, Grandpa, or Husband | Gift for Christian Men",
+      "author": "Jon Tyson",
+      "sort": "Tyson, Jon",
+      "isbn": "9780801018688",
+      "categories": [
+        "Parenting & relationships"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/13846652-M.jpg?default=false"
+    },
+    {
+      "id": "3591262",
+      "title": "Cutting for Stone",
+      "author": "Abraham Verghese",
+      "sort": "Verghese, Abraham",
+      "isbn": "9780375414497",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8474220-M.jpg?default=false"
+    },
+    {
+      "id": "180357146",
+      "title": "The Covenant of Water",
+      "author": "Abraham Verghese",
+      "sort": "Verghese, Abraham",
+      "isbn": "9780802162175",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/13190092-M.jpg?default=false"
+    },
+    {
+      "id": "4981",
+      "title": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut Jr.",
+      "sort": "Vonnegut, Kurt",
+      "isbn": "",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/12727001-M.jpg?default=false"
+    },
+    {
+      "id": "123857637",
+      "title": "Never Split the Difference: Negotiating as if Your Life Depended on It",
+      "author": "Chris Voss",
+      "sort": "Voss, Chris",
+      "isbn": "9781847941497",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8365942-M.jpg?default=false"
+    },
+    {
+      "id": "40584233",
+      "title": "Dark Clouds, Deep Mercy: Discovering the Grace of Lament",
+      "author": "Mark Vroegop",
+      "sort": "Vroegop, Mark",
+      "isbn": "9781433561481",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8745465-M.jpg?default=false"
+    },
+    {
+      "id": "244142495",
+      "title": "What Grows in Weary Lands: On Christian Resilience",
+      "author": "Tish Harrison Warren",
+      "sort": "Warren, Tish Harrison",
+      "isbn": "9780593728840",
+      "categories": [
+        "Christianity & theology"
+      ]
+    },
+    {
+      "id": "10828986",
+      "title": "The Christian Soldier; or Heaven Taken by Storm",
+      "author": "Thomas Watson",
+      "sort": "Watson, Thomas",
+      "isbn": "",
+      "categories": [
+        "Christianity & theology"
+      ]
+    },
+    {
+      "id": "54493401",
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "sort": "Weir, Andy",
+      "isbn": "9780593135204",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/11200092-M.jpg?default=false"
+    },
+    {
+      "id": "18007564",
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "sort": "Weir, Andy",
+      "isbn": "9780804139021",
+      "categories": [
+        "Science fiction & fantasy"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/11447888-M.jpg?default=false"
+    },
+    {
+      "id": "35133922",
+      "title": "Educated",
+      "author": "Tara Westover",
+      "sort": "Westover, Tara",
+      "isbn": "9780399590504",
+      "categories": [
+        "Memoir & biography"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8314077-M.jpg?default=false"
+    },
+    {
+      "id": "42270835",
+      "title": "The Nickel Boys",
+      "author": "Colson Whitehead",
+      "sort": "Whitehead, Colson",
+      "isbn": "",
+      "categories": [
+        "Fiction & classics"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8747820-M.jpg?default=false"
+    },
+    {
+      "id": "23013858",
+      "title": "Rocket Fuel: The One Essential Combination That Will Get You More of What You Want from Your Business",
+      "author": "Gino Wickman",
+      "sort": "Wickman, Gino",
+      "isbn": "9781941631157",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/10678414-M.jpg?default=false"
+    },
+    {
+      "id": "13236324",
+      "title": "Traction: Get a Grip on Your Business",
+      "author": "Gino Wickman",
+      "sort": "Wickman, Gino",
+      "isbn": "9781936661848",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/12196391-M.jpg?default=false"
+    },
+    {
+      "id": "12220",
+      "title": "A Streetcar Named Desire",
+      "author": "Tennessee Williams",
+      "sort": "Williams, Tennessee",
+      "isbn": "9780822210894",
+      "categories": [
+        "Poetry & drama"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8422967-M.jpg?default=false"
+    },
+    {
+      "id": "17233327",
+      "title": "Future Men",
+      "author": "Douglas Wilson",
+      "sort": "Wilson, Douglas",
+      "isbn": "",
+      "categories": [
+        "Parenting & relationships"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/933153-M.jpg?default=false"
+    },
+    {
+      "id": "52354",
+      "title": "Firms of Endearment: How World-Class Companies Profit from Passion and Purpose",
+      "author": "David B. Wolfe",
+      "sort": "Wolfe, David B.",
+      "isbn": "9780131873728",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/88738-M.jpg?default=false"
+    },
+    {
+      "id": "525461",
+      "title": "The Looming Tower: Al Qaeda and the Road to 9/11",
+      "author": "Lawrence Wright",
+      "sort": "Wright, Lawrence",
+      "isbn": "9781400030842",
+      "categories": [
+        "History"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8172445-M.jpg?default=false"
+    },
+    {
+      "id": "2710722",
+      "title": "How We Love: Discover Your Love Style, Enhance Your Marriage",
+      "author": "Milan Yerkovich",
+      "sort": "Yerkovich, Milan",
+      "isbn": "9781400072996",
+      "categories": [
+        "Parenting & relationships"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8066235-M.jpg?default=false"
+    },
+    {
+      "id": "3519343",
+      "title": "Competing on Internet Time: Lessons From Netscape & Its Battle with Microsoft",
+      "author": "DAVID YOFFIE",
+      "sort": "YOFFIE, DAVID",
+      "isbn": "9780684853192",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/7449808-M.jpg?default=false"
+    },
+    {
+      "id": "37798671",
+      "title": "Fusion: How Integrating Brand and Culture Powers the World's Greatest Companies",
+      "author": "Denise Lee Yohn",
+      "sort": "Yohn, Denise Lee",
+      "isbn": "9781473676985",
+      "categories": [
+        "Business & leadership"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/14663381-M.jpg?default=false"
+    },
+    {
+      "id": "111384",
+      "title": "Can Man Live Without God",
+      "author": "Ravi Zacharias",
+      "sort": "Zacharias, Ravi",
+      "isbn": "9780849945281",
+      "categories": [
+        "Christianity & theology"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/646473-M.jpg?default=false"
+    },
+    {
+      "id": "18465875",
+      "title": "Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon",
+      "author": "Kim Zetter",
+      "sort": "Zetter, Kim",
+      "isbn": "9780770436179",
+      "categories": [
+        "History"
+      ],
+      "cover": "https://covers.openlibrary.org/b/id/8435306-M.jpg?default=false"
+    }
+  ]
+}
