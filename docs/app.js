@@ -1,11 +1,11 @@
-import {sortBooks} from './library.mjs';
+import {sortBooks,catalogCover} from './library.mjs?v=20260918c';
 import {coverFilename,mountCoverUpload} from './cover-upload.mjs?v=20260918b';
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let books=[],category='All books',query='',cleanupUpload=()=>{};
 const missingCustom=new Set(),publishedCustom=new Map(),coverVersion=Date.now();
 function categories(){return [...new Set(books.flatMap(b=>b.categories))].sort((a,b)=>a.localeCompare(b))}
-function catalogCover(b){return b.cover || (b.isbn?`https://covers.openlibrary.org/b/isbn/${encodeURIComponent(b.isbn)}-M.jpg?default=false`:(/^\d+$/.test(b.id)?`https://covers.openlibrary.org/b/goodreads/${b.id}-M.jpg?default=false`:''))}
+
 function cover(b){
  if(publishedCustom.has(b.id))return publishedCustom.get(b.id);
  try{if(!missingCustom.has(b.id))return `./covers/${coverFilename(b.id)}?v=${coverVersion}`;}catch{}

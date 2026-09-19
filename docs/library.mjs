@@ -2,3 +2,9 @@ export function parseCSV(text){const rows=[];let row=[],field='',quoted=false;fo
 export function importCSV(text){const rows=parseCSV(text.replace(/^\uFEFF/,''));const headers=rows.shift()?.map(x=>x.trim());if(!headers||!['Title','Author','Exclusive Shelf'].every(x=>headers.includes(x)))throw Error('Please choose a Goodreads library export with Title, Author, and Exclusive Shelf columns.');let result=new Map;for(const row of rows){const r=Object.fromEntries(headers.map((h,i)=>[h,row[i]?.trim()||'']));if(r['Exclusive Shelf'].toLowerCase()!=='read'||!r.Title)continue;const cats=(r.Bookshelves||'').split(',').map(x=>x.trim()).filter(x=>x&&!['read','to-read','currently-reading'].includes(x));const id=r['Book Id']||`${r.Title}|${r.Author}`;result.set(id,{id,title:r.Title,author:r.Author||'Unknown author',sort:r['Author l-f']||authorKey(r.Author),isbn:(r.ISBN13||r.ISBN||'').replace(/[^\dXx]/g,''),categories:cats.length?cats:['Uncategorized'],rating:Number(r['My Rating'])||0,date:r['Date Read']||''})}if(!result.size)throw Error('No books marked “read” were found. Your existing bookshelf has not changed.');return [...result.values()]}
 export function authorKey(author){const parts=(author||'Unknown author').trim().split(/\s+/);return `${parts.pop()}, ${parts.join(' ')}`}
 export function sortBooks(books){return [...books].sort((a,b)=>(a.sort||authorKey(a.author)).localeCompare(b.sort||authorKey(b.author),undefined,{sensitivity:'base'})||a.title.localeCompare(b.title))}
+
+// Prefer the exported edition ISBN over a work-level search cover.
+export function catalogCover(b){
+ if(b.isbn)return `https://covers.openlibrary.org/b/isbn/${encodeURIComponent(b.isbn)}-M.jpg?default=false`;
+ return b.cover || (/^\d+$/.test(b.id)?`https://covers.openlibrary.org/b/goodreads/${b.id}-M.jpg?default=false`:'');
+}
