@@ -1,8 +1,9 @@
+import {loadExclusions,excludeBooks,mountRemoval} from './removals.mjs?v=20260918a';
 import {sortBooks,catalogCover} from './library.mjs?v=20260918c';
 import {coverFilename,mountCoverUpload} from './cover-upload.mjs?v=20260918b';
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-let books=[],category='All books',query='',cleanupUpload=()=>{};
+let books=[],category='All books',query='',cleanupUpload=()=>{},allBooks=[];
 const missingCustom=new Set(),publishedCustom=new Map(),coverVersion=Date.now();
 function categories(){return [...new Set(books.flatMap(b=>b.categories))].sort((a,b)=>a.localeCompare(b))}
 
@@ -44,10 +45,13 @@ $('#shelves').onclick=e=>{
  $('#detail').innerHTML=`${cover(b)?`<div class="detail-cover"><img src="${esc(cover(b))}" alt="${esc(b.title)} cover"></div>`:''}<p class="eyebrow">JEREMY’S COLLECTION</p><h2>${esc(b.title)}</h2><p>by ${esc(b.author)}</p><p class="category-tags">${b.categories.map(esc).join(' · ')}</p>${/^\d+$/.test(b.id)?`<a href="https://www.goodreads.com/book/show/${b.id}" target="_blank" rel="noreferrer">View on Goodreads ↗</a>`:''}`;
  const detailImg=$('#detail img');if(detailImg)bindCover(detailImg,b,()=>{detailImg.parentElement.innerHTML=fallback(b);});
  const editor=document.createElement('div');$('#detail').append(editor);
- cleanupUpload=mountCoverUpload(editor,b,url=>{
+ const cleanupCover=mountCoverUpload(editor,b,url=>{
   missingCustom.delete(b.id);publishedCustom.set(b.id,url);render();
   const holder=$('#detail .detail-cover');if(holder){holder.innerHTML=`<img src="${esc(url)}" alt="${esc(b.title)} cover">`;}
  });
+ const removal=document.createElement('div');$('#detail').append(removal);
+ const cleanupRemoval=mountRemoval(removal,b,removed=>{books=excludeBooks(allBooks,removed);if(!categories().includes(category))category='All books';$('#detail-dialog').close();render();$('#status').textContent='Book removed. It will stay excluded from future imports.';});
+ cleanupUpload=()=>{cleanupCover();cleanupRemoval();};
  $('#detail-dialog').showModal();
 };
 $('#status').textContent='Loading the bookshelf…';
@@ -55,5 +59,5 @@ try{
  const response=await fetch('./books.json',{cache:'no-cache'});if(!response.ok)throw Error('Library unavailable');
  const data=await response.json();
  if(!Array.isArray(data.books)||!data.books.every(b=>typeof b.id==='string'&&typeof b.title==='string'&&typeof b.author==='string'&&Array.isArray(b.categories)&&b.categories.every(c=>typeof c==='string')&&(!b.cover||/^https:\/\/covers\.openlibrary\.org\/b\/(?:id|isbn|goodreads)\/[\w-]+\.jpg(?:\?default=false)?$/.test(b.cover))))throw Error('Invalid collection');
- books=data.books;render();$('#status').textContent='';
+ allBooks=data.books;books=excludeBooks(allBooks,await loadExclusions());render();$('#status').textContent='';
 }catch{$('#status').textContent='The bookshelf could not be loaded. Please refresh to try again.'}
